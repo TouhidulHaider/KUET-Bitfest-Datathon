@@ -1,4 +1,4 @@
-# KUET BITFEST DATATHON 2024
+# KUET BITFEST DATATHON 2025
 ## Team RU_Titration (Touhidul Haider, Abir Hasan, MSA Somrat, Omar Faruk Tanzim)
 ### As this is a competition notebook, it is private
 
